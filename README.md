@@ -1,10 +1,11 @@
 # code_refactor
-changed div for logical and semantic reason 
-added alt to all images for accessibility 
-changed css to reflect the nav change 
-changed 3 divs into sections for semantic and logical reasons 
-changed 3 divs to aside 
-fixed the seo link
-changed the footer for sequential reasons div class footer to footer class footer
-changed the title in heading 
-changed "made with horizon" to h4
+Changed div to nav for logical and semantic reason 
+Added alt to all images for accessibility 
+Changed our css sheet to reflect the nav to div change 
+Changed 3 divs into sections for semantic and logical reasons 
+Changed 3 divs to aside 
+Fixed the seo link
+Changed the footer for sequential reasons from <div class footer> to <footer class footer>
+Changed the title in heading 
+Changed "made with horiseon" to h4
+<link rel="challenege_1" href="https://matthewtlarson.github.io/code_refactor/">
